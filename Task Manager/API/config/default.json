@@ -6,7 +6,12 @@
         "username":"root",
         "password":"",
         "database":"todo"
-    },"statusCode":[
+    },
+    "mailCredential": {
+          "user":"UsersEmail00@gmail.com",
+        "pass":"0000 0000 0000 0000"
+    },
+    "statusCode":[
         "","Created","Assign To","Pick","Reject","Working","Hold","Completed"
     ]
 }
