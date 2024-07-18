@@ -6,7 +6,6 @@
         "username":"root",
         "password":"",
         "database":"todo"
-    },
     },"statusCode":[
         "","Created","Assign To","Pick","Reject","Working","Hold","Completed"
     ]
