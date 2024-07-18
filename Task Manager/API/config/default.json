@@ -7,10 +7,6 @@
         "password":"",
         "database":"todo"
     },
-    "mailCredential":{
-        "user":"sayyedammu99@gmail.com",
-        "pass":"rmnb wbbk fhvi fgdq"
-
     },"statusCode":[
         "","Created","Assign To","Pick","Reject","Working","Hold","Completed"
     ]
